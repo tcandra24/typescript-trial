@@ -3,13 +3,13 @@
     <p>
       <JobList :jobs="jobs" />
     </p>
-    <p>
+    <!-- <p>
       {{ user.name }}
       {{ user.job }}
     </p>
     <button @click="changeData('Tralalalaal', 'Frontend Engineer')">
       Change Data
-    </button>
+    </button> -->
   </div>
 </template>
 
